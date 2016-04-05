@@ -1,0 +1,7 @@
+{
+	"name": "{{TYPE}}",
+	"children": [],
+	"color" : "{{color}}",
+	"value" : "{{VALUE}}",
+	"perc" : "{{VALUE_PERC}}"
+}
